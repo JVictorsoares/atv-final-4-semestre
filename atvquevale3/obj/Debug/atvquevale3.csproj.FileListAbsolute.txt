@@ -1,0 +1,10 @@
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\bin\Debug\atvquevale3.exe.config
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\bin\Debug\atvquevale3.exe
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\bin\Debug\atvquevale3.pdb
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\obj\Debug\atvquevale3.csproj.AssemblyReference.cache
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\obj\Debug\atvquevale3.Form1.resources
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\obj\Debug\atvquevale3.Properties.Resources.resources
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\obj\Debug\atvquevale3.csproj.GenerateResource.cache
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\obj\Debug\atvquevale3.csproj.CoreCompileInputs.cache
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\obj\Debug\atvquevale3.exe
+C:\Users\joaos\source\repos\atvquevale3\atvquevale3\obj\Debug\atvquevale3.pdb
